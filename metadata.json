@@ -1,0 +1,7 @@
+{
+  "name": "TrainLocal",
+  "description": "An AI-powered marketplace connecting clients with personal trainers using smart matching, voice intros, and automated scheduling.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
